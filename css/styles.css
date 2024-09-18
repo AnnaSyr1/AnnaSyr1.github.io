@@ -3032,19 +3032,19 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #6610f2;
-  border-color: #6610f2;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
 }
 .btn-primary:hover {
   color: #fff;
   background-color: #6610f2;
-  border-color: #6610f2;
+  border-color: #0d6efd;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #0d6efd;
+  background-color: #6610f2;
   border-color: #0d6efd;
-  box-shadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
